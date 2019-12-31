@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SoftBlueApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="txtSecondActivityText">Yoooo</string>
+    <string name="btnSecondActvity">Go</string>
+    <string name="btnSecondActivity">GO</string>
+    <string name="btnBack">Back</string>
+</resources>

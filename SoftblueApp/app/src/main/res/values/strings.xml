@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoftblueApp</string>
+    <string name="first_text">That's my first text on Android</string>
+    <string name="title_activity_second">Second Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSecondActivity">Go to Second Activity</string>
+</resources>

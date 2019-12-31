@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnGo">Go</string>
+    <string name="txtEnter">Type some text</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="hntSecondAnswer">Type an answer for the first Activity</string>
+    <string name="btnComeBack">Come Back</string>
+
+</resources>
